@@ -24,13 +24,13 @@ De scripts gebruiken alleen de Python-standaardbibliotheek.
 ### Claude Code (via deze marketplace)
 
 ```
-/plugin marketplace add <github-eigenaar>/oosterwal-seo-geo
+/plugin marketplace add ISOpeet/oosterwal-seo-geo
 /plugin install oosterwal-seo-geo@oosterwal
 ```
 
 ### claude.ai (ook voor een Team- of Enterprise-omgeving)
 
-1. Download `dist/seo-geo-audit.zip`.
+1. Download [`dist/seo-geo-audit.zip`](https://github.com/ISOpeet/oosterwal-seo-geo/raw/main/dist/seo-geo-audit.zip).
 2. Ga naar Instellingen, Mogelijkheden, Skills en upload de ZIP.
 3. Zet code-uitvoering aan. Heeft de omgeving geen internettoegang voor
    scripts, dan vraagt de skill om exports (sitemap, Ahrefs- of

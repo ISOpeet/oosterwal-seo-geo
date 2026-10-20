@@ -9,5 +9,15 @@
   },
   "homepage": "https://oosterwal.com",
   "license": "MIT",
-  "keywords": ["seo", "geo", "audit", "ahrefs", "core-web-vitals", "wordpress", "llms.txt", "hreflang"]
+  "keywords": [
+    "seo",
+    "geo",
+    "audit",
+    "ahrefs",
+    "core-web-vitals",
+    "wordpress",
+    "llms.txt",
+    "hreflang"
+  ],
+  "repository": "https://github.com/ISOpeet/oosterwal-seo-geo"
 }
