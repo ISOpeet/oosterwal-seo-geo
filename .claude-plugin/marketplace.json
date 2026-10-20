@@ -1,0 +1,17 @@
+{
+  "name": "oosterwal",
+  "owner": {
+    "name": "Oosterwal Consultancy",
+    "email": "peter@oosterwal.com"
+  },
+  "metadata": {
+    "description": "Plugins van Oosterwal Consultancy: digitale transformatie en AI, onder controle."
+  },
+  "plugins": [
+    {
+      "name": "oosterwal-seo-geo",
+      "source": "./",
+      "description": "SEO- en GEO-audit met oorzaakanalyse en veilige fixes."
+    }
+  ]
+}

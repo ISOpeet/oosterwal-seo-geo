@@ -1,0 +1,13 @@
+{
+  "name": "oosterwal-seo-geo",
+  "version": "1.0.0",
+  "description": "SEO- en GEO-audit met oorzaakanalyse en veilige fixes: crawlt de hele sitemap, vertaalt Ahrefs-, Search Console- en PageSpeed-meldingen naar de echte oorzaak en begeleidt de fix met back-up, dry run en hermeting.",
+  "author": {
+    "name": "Oosterwal Consultancy",
+    "email": "peter@oosterwal.com",
+    "url": "https://oosterwal.com"
+  },
+  "homepage": "https://oosterwal.com",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "audit", "ahrefs", "core-web-vitals", "wordpress", "llms.txt", "hreflang"]
+}

@@ -1,0 +1,4 @@
+__pycache__/
+*.jsonl
+findings*.json
+.DS_Store
